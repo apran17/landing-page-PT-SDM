@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-	Read Only by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 
 <head>
@@ -33,11 +28,11 @@
 		</nav>
 		<footer>
 			<ul class="icons">
-				<li><a href="https://twitter.com/ayanokoji_rans" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-				<li><a href="https://www.facebook.com/apran.anugrah" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-				<li><a href="https://www.instagram.com/?hl=id" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-				<li><a href="https://github.com/apran17/landing-page-PT-SDM" class="icon brands fa-github"><span class="label">Github</span></a></li>
-				<li><a href="https://www.google.com/intl/id/gmail/about/" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+				<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+				<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+				<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 			</ul>
 		</footer>
 	</section>
@@ -69,7 +64,6 @@
 					<h3>Things I Can Do</h3>
 					<p>I usually do the easy work first and start from small things like below.</p>
 					<ul class="feature-icons">
-						<li class="icon solid fa-code">Write all the code</li>
 						<li class="icon solid fa-cubes">Stack small boxes</li>
 						<li class="icon solid fa-book">Read books and stuff</li>
 						<li class="icon solid fa-coffee">Drink much coffee</li>
